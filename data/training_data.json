@@ -1,0 +1,38 @@
+[
+  {
+    "user_text": "",
+    "metrics": {
+      "anxiety": 2,
+      "clarity": 8,
+      "motivation": 5,
+      "selfAwareness": 6
+    }
+  },
+  {
+    "user_text": "",
+    "metrics": {
+      "anxiety": 0,
+      "clarity": 0,
+      "motivation": 0,
+      "selfAwareness": 0
+    }
+  },
+  {
+    "user_text": "",
+    "metrics": {
+      "anxiety": 0,
+      "clarity": 0,
+      "motivation": 0,
+      "selfAwareness": 0
+    }
+  },
+  {
+    "user_text": "I think the main driver for my motivation at work is the pursiuit of skill acquisition, but yesterday I also realzied that a big think that I like is just the adrenaline and the fulfillment that comes from using your mind capacity to the fullest potential. I was in a fast meeting where I had to persuade my coworker of some ideas that I had for the sales team and that adrenaline from the fast debate just made me feel alive, this is what I want in my everyday work life. Deep thinking and working towards excellence",
+    "metrics": {
+      "anxiety": 2,
+      "clarity": 8,
+      "motivation": 9,
+      "selfAwareness": 7
+    }
+  }
+]
