@@ -1,104 +1,14 @@
 {
   "interactions": [
     {
-      "user_text": "è strano come funziona la mia motivazione. Non sono motivato come vorrei sul posto di lavoro e questo a volte mi urta, forse perché mi ingegnerizzo delle motivazioni che non vanno bene per il mio core? Cioè per esempio nel caso di hiop la motivazione che mi sono fissato, e il motivo per cui lo stavo facendo era che si tratta di una oportunita di crescita per le mie skill, e un ambiente in cui venire ispirato da gente che lavora piu duro di me. In un certo senso è vero: aure e paolo hanno una work ethic migliore della mia, ma è come se non fosse una grande influenza... non sono certo del perche.",
-      "metrics": {
-        "anxiety": 3,
-        "clarity": 7,
-        "motivation": 5,
-        "selfAwareness": 6
-      },
-      "generated_question": null
-    },
-    {
-      "user_text": "",
-      "metrics": {
-        "anxiety": 2,
-        "clarity": 8,
-        "motivation": 5,
-        "selfAwareness": 6
-      },
-      "generated_question": "What truly drives your motivation at work, and are the reasons you've set for yourself aligned with your core values?"
-    },
-    {
-      "user_text": "è strano come funziona la mia motivazione. Non sono motivato come vorrei sul posto di lavoro e questo a volte mi urta, forse perché mi ingegnerizzo delle motivazioni che non vanno bene per il mio core? Cioè per esempio nel caso di hiop la motivazione che mi sono fissato, e il motivo per cui lo stavo facendo era che si tratta di una opportunità di crescita per le mie skill, e un ambiente in cui venire ispirato da gente che lavora più duro di me. In un certo senso è vero: aure e paolo hanno una work ethic migliore della mia, ma è come se non fosse una grande influenza... non sono certo del perché. In parte mi sono reso conto che su alcuni aspetti non hanno molto da insegnarmi, quello che sto imparando c'entra più con il knowledge ultra specifico relativo a quello che fa l'azienda, quindi conoscenza del mercato e conoscenza del tool, ma non so è tutto un po' confuso, ci sono alcuni aspetti di cultura che no",
-      "metrics": {
-        "anxiety": 4,
-        "clarity": 6,
-        "motivation": 5,
-        "selfAwareness": 7
-      },
-      "generated_question": null
-    },
-    {
-      "user_text": "",
-      "metrics": {
-        "anxiety": 0,
-        "clarity": 0,
-        "motivation": 0,
-        "selfAwareness": 0
-      },
-      "generated_question": "What core motivations truly drive your actions and how might they differ from the ones you currently hold onto?"
-    },
-    {
-      "user_text": "",
-      "metrics": {
-        "anxiety": 0,
-        "clarity": 0,
-        "motivation": 0,
-        "selfAwareness": 0
-      },
-      "generated_question": "What aspects of your current situation are clouding your clarity and understanding?"
-    },
-    {
-      "user_text": "è strano come funziona la mia motivazione. Non sono motivato come vorrei sul posto di lavoro e questo a volte mi urta, forse perché mi ingegnerizzo delle motivazioni che non vanno bene per il mio core? Cioè per esempio nel caso di hiop la motivazione che mi sono fissato, e il motivo per cui lo stavo facendo era che si tratta di una oportunita di crescita per le mie skill, e un ambiente in cui venire ispirato da gente che lavora piu duro di me. In un certo senso è vero: aure e paolo hanno una work ethic migliore della mia, ma è come se non fosse una grande influenza... non sono certo del perche.In parte mi sono reso conto che su alcuni aspetti non hanno molto da insegnarmi, quello che sto imparando c'entra piu con il knowledge ultra specifico relativo a quello che fa l'azienda, quindi conoscenza del mercato e conoscenza del tool, ma non so è tutto un po confuso, ci sono alcuni aspetti di cultura che non mi convincono del tipo il blaming eccessivo dei competitor",
-      "metrics": {
-        "anxiety": 4,
-        "clarity": 6,
-        "motivation": 5,
-        "selfAwareness": 7
-      },
-      "generated_question": null
-    },
-    {
-      "user_text": "I think the main driver for my motivation at work is the pursiuit of skill acquisition, but yesterday I also realzied that a big think that I like is just the adrenaline and the fulfillment that comes from using your mind capacity to the fullest potential. I was in a fast meeting where I had to persuade my coworker of some ideas that I had for the sales team and that adrenaline from the fast debate just made me feel alive, this is what I want in my everyday work life. Deep thinking and working towards excellence",
-      "metrics": {
-        "anxiety": 2,
-        "clarity": 8,
-        "motivation": 9,
-        "selfAwareness": 7
-      },
-      "generated_question": "What truly drives your motivation at work, and how can you align it with your core values for a more fulfilling experience?"
-    },
-    {
-      "user_text": "Dunque, eccoci qui. Dicevo, sento una certa senzazione di insoddisfazione negli ultimi giorni e voglio capire quale sia la causa di tutto cio.Questo è lo stesso termine che utilizzavo quando in realta ero depresso, quindi devo stare attento a non sopprimerla a lungo per non farla degenerare in depressione.Come prima cosa, voglio capire se le basi sono apposto, e cercare di scavare a fondo ala ricerca di una causa, o di un processo mentale per cui mi piace identificarmi in questo modo.",
+      "user_text": "Dunque, eccoci qui. Dicevo, sento una certa senzazione di insoddisfazione negli ultimi giorni e voglio capire quale sia la causa di tutto cio.\n\nQuesto è lo stesso termine che utilizzavo quando in realta ero depresso, quindi devo stare attento a non sopprimerla a lungo per non farla degenerare in depressione.\n\n\n\nCome prima cosa, voglio capire se le basi sono apposto, e cercare di scavare a fondo ala ricerca di una causa, o di un processo mentale per cui mi piace identificarmi in questo modo.\n\n\n\nA livello fisico, il mio sonno è ok, sto dormendo abbastanza, forse anche troppo (segnale che di solito comporta un problema conoscnedomi), e soprattutto sto ricercando degli stimoli prima di andare a dormire per coprire la mente, interessante. Questo è gia un qualcosa.",
       "metrics": {
         "anxiety": 7,
         "clarity": 6,
         "motivation": 5,
         "selfAwareness": 8
       },
-      "generated_question": null
-    },
-    {
-      "user_text": "Dunque, eccoci qui. Dicevo, sento una certa senzazione di insoddisfazione negli ultimi giorni e voglio capire quale sia la causa di tutto cio.Questo è lo stesso termine che utilizzavo quando in realta ero depresso, quindi devo stare attento a non sopprimerla a lungo per non farla degenerare in depressione.Come prima cosa, voglio capire se le basi sono apposto, e cercare di scavare a fondo ala ricerca di una causa, o di un processo mentale per cui mi piace identificarmi in questo modo.",
-      "metrics": {
-        "anxiety": 7,
-        "clarity": 6,
-        "motivation": 5,
-        "selfAwareness": 8
-      },
-      "generated_question": null
-    },
-    {
-      "user_text": "A livello fisico, il mio sonno è ok, sto dormendo abbastanza, forse anche troppo (segnale che di solito comporta un problema conoscnedomi), e soprattutto sto ricercando degli stimoli prima di andare a dormire per coprire la mente, interessante. Questo è gia un qualcosa.",
-      "metrics": {
-        "anxiety": 3,
-        "clarity": 7,
-        "motivation": 6,
-        "selfAwareness": 8
-      },
-      "generated_question": "What fundamental aspects of your identity are you seeking to align with in this state of dissatisfaction?"
+      "generated_question": "What aspects of your identity are you holding onto that may be contributing to this sense of dissatisfaction?"
     }
   ]
 }

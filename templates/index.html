@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reflection Space</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Your Reflection Space</h1>
+        <p class="subtitle">A quiet place for introspection and growth</p>
+
+        <div class="reflection-area">
+            <textarea
+                id="userInput"
+                placeholder="What brings you here today?"
+                rows="6"
+            ></textarea>
+
+            <button id="reflectButton" class="reflect-btn">
+                help me reflect
+            </button>
+        </div>
+
+        <div id="questionArea" class="question-area hidden">
+            <p id="generatedQuestion"></p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
